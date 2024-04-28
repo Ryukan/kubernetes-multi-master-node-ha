@@ -62,7 +62,7 @@ gateway 10.5.200.254
 dns-nameservers 8.8.4.4 8.8.8.8
 ```
 ```
-systemctl restart nertowrking
+systemctl restart networking
 ```
 
 ## Set up load balancer node
