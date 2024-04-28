@@ -1,4 +1,4 @@
-# Set up a Highly Available Kubernetes Cluster using kubeadm
+# Set up on Debian a Highly Available Kubernetes Cluster using kubeadm
 Follow this documentation to set up a highly available Kubernetes cluster using __Debian 12__.
 
 This documentation guides you in setting up a cluster with two master nodes, two worker nodes and a load balancer node using HAProxy.
