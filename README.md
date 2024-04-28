@@ -138,7 +138,7 @@ Install Containerd
 ```
 sudo apt update
 
-sudo apt install -y containerd.io
+sudo apt install -y containerd
 ```
 Configure containerd to start using systemd as cgroup:
 ```
